@@ -2,14 +2,12 @@
 
 public partial class MainPage : ContentPage
 {
-
-	public MainPage()
-	{
-		InitializeComponent();
-	}
+    public MainPage()
+    {
+        InitializeComponent();
+    }
 
     protected override void OnAppearing() { }
+
     protected override void OnDisappearing() { }
-
 }
-
